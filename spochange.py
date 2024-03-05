@@ -1,5 +1,4 @@
 from playwright.sync_api import Playwright, sync_playwright, expect
-from playwright_stealth import stealth_sync
 
 
 def get_credentials_from_file(file_path):
