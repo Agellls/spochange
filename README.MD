@@ -13,5 +13,6 @@ $ python spochange.py
 ## If you have error cannot find module
 
 ```
-$ pip install module_name
+$ pip install playwright
+$ python -m playwright install
 ```
